@@ -1,4 +1,4 @@
-##Food Calorie Prediction
+### Food Calorie Prediction
 
 This project involves predicting the calorie content of various food items based on their serving size. The model uses a linear regression algorithm to estimate the calories based on weight extracted from the serving size description.
 
