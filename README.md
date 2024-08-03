@@ -19,7 +19,7 @@ The goal of this project is to predict the calorie content of food items based o
 
 1. **Clone the repository:**
 
-    ```bash
+    ```Terminal
     git clone https://github.com/Souvik18p/predict-calories-of-a-food-item.git
   
     ```
