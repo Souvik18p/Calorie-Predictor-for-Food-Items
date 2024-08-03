@@ -27,10 +27,10 @@ The goal of this project is to predict the calorie content of food items based o
 
     You can use `pip` to install the necessary packages. It is recommended to use a virtual environment.
 
-    `
+    ```
     pip install pandas scikit-learn matplotlib
     ```
-    ## Usage
+## Usage
 
 1. **Prepare the Dataset:**
 
