@@ -9,8 +9,7 @@ This project involves predicting the calorie content of various food items based
 - [Usage](#usage)
 - [Data](#data)
 - [Model](#model)
-- [License](#license)
-- [Contributing](#contributing)
+
 
 ## Project Overview
 
